@@ -9,7 +9,6 @@ class Dog
   end
   
   def bark
-    puts "#{@this_dogs_name} says, "
     puts "woof!"
   end
   
